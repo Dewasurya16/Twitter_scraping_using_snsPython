@@ -3,5 +3,4 @@
 -Before using make sure Your local Have Sns libary
 ```Terminal
     pip install snscrape
-  
-    ```
+
